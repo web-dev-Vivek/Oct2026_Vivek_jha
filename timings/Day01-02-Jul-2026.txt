@@ -1,0 +1,11 @@
+Today's task
+2 hours - Online session in the morning
+1 hours - AWS
+2 Hours - EC2 install
+1 Hours - Git
+
+Tomorrow' task
+will learn linux 
+basic linux installation 
+Ec2 connection 
+git hub connection
